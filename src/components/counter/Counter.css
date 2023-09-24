@@ -1,0 +1,27 @@
+.counterButton{
+    font-size: 40px;
+   
+    width: 100px;
+    margin: 20px;
+    border-radius: 10px;
+    border: 2px;
+}
+
+.counterButtonInc{
+    background-color: rgb(4, 139, 65);
+}
+
+.counterButtonDec{
+    background-color: rgb(190, 16, 16);
+}
+
+.counterButtonReset{
+    background-color: rgb(12, 176, 226);
+    width: 150px;
+    padding: 2px;
+}
+
+.count{
+    font-size: 150px;
+    padding: 20px;
+}

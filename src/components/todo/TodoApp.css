@@ -1,0 +1,10 @@
+label,input,button{
+    margin : 10px 0px;
+    padding: 5px;
+}
+
+
+
+.errorMessage{
+    color: red; 
+}
